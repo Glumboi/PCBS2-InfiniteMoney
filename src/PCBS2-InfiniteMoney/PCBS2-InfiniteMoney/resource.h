@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
-// Used by PCBS2-InfiniteMoney.rc
+// Used by UnityLoaderPluginTemplate.rc
 
 // Next default values for new objects
 // 

@@ -1,0 +1,10 @@
+{
+  "caller": "PCBS2-InfiniteMoney",
+  "offsetRequests": [
+    {
+      "searchName": "CareerStatus_GetCash",
+      "value": "0xFFFFFF",
+      "signature": "int32_t CareerStatus__GetCash (CareerStatus_o* __this, const MethodInfo* method);"
+    }
+  ]
+}
